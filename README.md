@@ -33,8 +33,8 @@ Key theoretical results:
 ```bash
 mm1-queue-simulation/
 │── src/
-│   ├── queue.py        # Event-driven M/M/1 simulator
-│   ├── analysis.py     # Theoretical + empirical analysis
+│   ├── queue.py        
+│   ├── analysis.py   
 │── notebooks/
 │   └── experiments.ipynb
 │── figures/
