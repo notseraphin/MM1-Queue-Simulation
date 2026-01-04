@@ -29,7 +29,8 @@ Key theoretical results:
       𝐸[𝑊]=1/𝜇−𝜆
   
 **Project Structure**
-  
+
+```bash
 mm1-queue-simulation/
 │── src/
 │   ├── queue.py        # Event-driven M/M/1 simulator
@@ -40,7 +41,7 @@ mm1-queue-simulation/
 │   └── stationary_distribution.png
 │── README.md
 │── requirements.txt
-
+```
 **Simulation Approach**
 
 - Arrivals and service completions are generated using exponential random variables
