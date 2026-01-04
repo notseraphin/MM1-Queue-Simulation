@@ -67,6 +67,7 @@ The close agreement confirms convergence to the stationary regime and validates 
 
 In addition, the empirical stationary distribution of queue lengths closely matched the theoretical geometric distribution
 P(N = n) = (1 − ρ)ρⁿ, further demonstrating consistency with classical queueing theory. Minor deviations are attributable to finite simulation time and sampling variability.
+
 <img width="582" height="433" alt="image" src="https://github.com/user-attachments/assets/5cb26720-fdb1-4c27-8a70-1a99b074d7df" />
 
 Overall, this project demonstrates how discrete-event simulation can accurately reproduce steady-state properties of Markovian queues and provides a foundation for analyzing more complex service systems where analytical solutions are intractable.
